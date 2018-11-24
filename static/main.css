@@ -1,0 +1,7 @@
+div.content_block{
+	border-radius: 15px 50px;
+	border-style: inset;
+	border-width: 2px;
+	padding: 30px;
+	margin-bottom: 50px;
+}
